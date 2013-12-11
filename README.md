@@ -1,7 +1,7 @@
 meteor-cdn-jquery-cookie
 ========================
 
-Meteorite smart package for ([jquery.cookie](https://github.com/carhartl/jquery-cookie)) plugin load from ([cdn](http://www.jsdelivr.net))
+Meteorite smart package for [jquery.cookie](https://github.com/carhartl/jquery-cookie) plugin load from [cdn](http://www.jsdelivr.net)
 
 
 ## How to install
