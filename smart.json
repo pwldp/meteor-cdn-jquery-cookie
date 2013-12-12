@@ -3,6 +3,6 @@
         "description": "jquery.cookie plugin packaged for Meteor",
         "homepage": "https://github.com/pwldp/meteor-cdn-jquery-cookie",
         "author": "Dariusz Pawlak",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "git": "https://github.com/pwldp/meteor-cdn-jquery-cookie.git"
 }
