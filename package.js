@@ -3,6 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api){
-        api.use('jquery');
+        api.use('jquery', 'client');
         api.add_files('load.js', 'client');
 });
